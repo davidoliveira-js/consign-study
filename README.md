@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Api simples com sequelize e banco de dados postgres.
+API simples com sequelize e banco de dados postgres.
 
 ## consign
 
